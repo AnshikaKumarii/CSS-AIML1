@@ -1,6 +1,6 @@
 p{
     color: blue;
-    background-color:blueviolet;
+    background-color:white;
     text-align:center;
 }
 .p{
@@ -9,4 +9,29 @@ p{
 }
 #jk{
     font-size: 25px;
+} 
+div{
+    height:200px ;
+    width: 200px;
+    background-color:cadetblue;
+    padding: 20px;
+    border: 1px solid black;
+    margin:100px;
+} 
+div{
+    height:200px;
+    width: 200px;
+    background-color: lawngreen;
+    padding:30px;
+    border: 2px solid black;
+    margin: 200px; 
+}
+div{
+    color: red;
+    height: 100px;
+    width: 800px;
+    background-color: white;
+    padding: 30px;
+    border: 4px solid black;
+    margin: 200px;
 }
