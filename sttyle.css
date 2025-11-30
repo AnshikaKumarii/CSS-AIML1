@@ -1,0 +1,44 @@
+.container {
+    width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.card {
+    width: 220px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+     text-align: center;
+}
+
+.circle {
+    width: 80px;
+    height: 80px;
+    margin: 0 auto 15px;
+    background: dodgerblue;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.info {
+    font-size: 14px;
+    color: #444;
+    line-height: 20px;
+}
